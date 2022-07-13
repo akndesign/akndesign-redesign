@@ -24,40 +24,40 @@ self.__precacheManifest = [
     "url": "/akndesign-redesign/static/media/clippy.532d16ed.png"
   },
   {
-    "revision": "2b02343f44f9ea08861232894db695fc",
-    "url": "/akndesign-redesign/static/media/elgoc-bold-webfont.2b02343f.woff"
-  },
-  {
     "revision": "68411bba0cb063dfad293103b79244ee",
     "url": "/akndesign-redesign/static/media/The Devil's Work.68411bba.ttf"
   },
   {
-    "revision": "0afb67bbda49e7fa8f8e6515f1a13680",
-    "url": "/akndesign-redesign/static/media/GT-Alpina-Condensed-Bold-Italic-Trial.0afb67bb.otf"
-  },
-  {
-    "revision": "d72df232d9dede798ad8b04944c15b80",
-    "url": "/akndesign-redesign/static/media/GT-America-Standard-Bold-Trial.d72df232.otf"
-  },
-  {
-    "revision": "2f1506318dce10c7a9e3f106828602b3",
-    "url": "/akndesign-redesign/static/media/flower.2f150631.svg"
+    "revision": "2b02343f44f9ea08861232894db695fc",
+    "url": "/akndesign-redesign/static/media/elgoc-bold-webfont.2b02343f.woff"
   },
   {
     "revision": "2b38b31a60bd6636efeb6e416c0a95ee",
     "url": "/akndesign-redesign/static/media/hello.2b38b31a.ttf"
   },
   {
-    "revision": "3bc4dae59d6d86f489dee52870fc33ce",
-    "url": "/akndesign-redesign/static/media/checkers.3bc4dae5.svg"
-  },
-  {
     "revision": "487c46655ea91c50b2a3c3c39c630060",
     "url": "/akndesign-redesign/static/media/arrow-right.487c4665.svg"
   },
   {
+    "revision": "d72df232d9dede798ad8b04944c15b80",
+    "url": "/akndesign-redesign/static/media/GT-America-Standard-Bold-Trial.d72df232.otf"
+  },
+  {
+    "revision": "0afb67bbda49e7fa8f8e6515f1a13680",
+    "url": "/akndesign-redesign/static/media/GT-Alpina-Condensed-Bold-Italic-Trial.0afb67bb.otf"
+  },
+  {
     "revision": "ad10bff9b8fe5ebd79fdb7dd55e92b58",
     "url": "/akndesign-redesign/static/media/checkers_yellow.ad10bff9.svg"
+  },
+  {
+    "revision": "3bc4dae59d6d86f489dee52870fc33ce",
+    "url": "/akndesign-redesign/static/media/checkers.3bc4dae5.svg"
+  },
+  {
+    "revision": "2f1506318dce10c7a9e3f106828602b3",
+    "url": "/akndesign-redesign/static/media/flower.2f150631.svg"
   },
   {
     "revision": "81942b57169bf956b6ed20a16a298fce",
