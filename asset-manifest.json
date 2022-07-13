@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/akndesign-redesign/static/css/main.d98e51c5.css",
+    "main.js": "/akndesign-redesign/static/js/main.0452ed12.js",
+    "static/js/787.e9050a8c.chunk.js": "/akndesign-redesign/static/js/787.e9050a8c.chunk.js",
+    "static/media/c_Misfits_30082019_Shot_10_802.jpg": "/akndesign-redesign/static/media/c_Misfits_30082019_Shot_10_802.99457a6ea0fe8954c493.jpg",
+    "static/media/luke.gif": "/akndesign-redesign/static/media/luke.fc8721498454afcd3464.gif",
+    "static/media/space-odyssey-2.mp4": "/akndesign-redesign/static/media/space-odyssey-2.71dace51cecbd30dc963.mp4",
+    "static/media/meangirls.mp4": "/akndesign-redesign/static/media/meangirls.4afc8ba375ac5659d726.mp4",
+    "static/media/clippy.png": "/akndesign-redesign/static/media/clippy.689fcd9c3a1a75d46394.png",
+    "static/media/Bogue-Semibold.ttf": "/akndesign-redesign/static/media/Bogue-Semibold.d75f3fe4bf663ec6a6e4.ttf",
+    "static/media/fixedsys.ttf": "/akndesign-redesign/static/media/fixedsys.c79051f539825f0859aa.ttf",
+    "static/media/hello.ttf": "/akndesign-redesign/static/media/hello.aa14e7b110864a3c2e08.ttf",
+    "static/media/The Devil's Work.ttf": "/akndesign-redesign/static/media/The Devil's Work.92557e6ed016730cc765.ttf",
+    "static/media/GT-America-Standard-Bold-Trial.otf": "/akndesign-redesign/static/media/GT-America-Standard-Bold-Trial.7c5cc001748d14c9d568.otf",
+    "static/media/elgoc-bold-webfont.woff": "/akndesign-redesign/static/media/elgoc-bold-webfont.aeac3525c948a55a999e.woff",
+    "static/media/flower.svg": "/akndesign-redesign/static/media/flower.3adf13cde48f55e60999.svg",
+    "static/media/Windows95.webp": "/akndesign-redesign/static/media/Windows95.119da69a27311ab18f5a.webp",
+    "static/media/GT-Alpina-Condensed-Bold-Italic-Trial.otf": "/akndesign-redesign/static/media/GT-Alpina-Condensed-Bold-Italic-Trial.e0bde559794868bdaa65.otf",
+    "static/media/logo.svg": "/akndesign-redesign/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/checkers.svg": "/akndesign-redesign/static/media/checkers.e11fc7abf551e87b31a7.svg",
+    "static/media/checkers_yellow.svg": "/akndesign-redesign/static/media/checkers_yellow.d645136e150152018d4e.svg",
+    "index.html": "/akndesign-redesign/index.html",
+    "static/media/arrow-right.svg": "/akndesign-redesign/static/media/arrow-right.914c0d42b4cadc527298.svg",
+    "main.d98e51c5.css.map": "/akndesign-redesign/static/css/main.d98e51c5.css.map",
+    "main.0452ed12.js.map": "/akndesign-redesign/static/js/main.0452ed12.js.map",
+    "787.e9050a8c.chunk.js.map": "/akndesign-redesign/static/js/787.e9050a8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d98e51c5.css",
+    "static/js/main.0452ed12.js"
+  ]
+}
