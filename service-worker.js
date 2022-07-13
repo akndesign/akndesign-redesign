@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/akndesign-redesign/precache-manifest.a0f8b436308e10c9a964a40479615843.js"
+  "/akndesign-redesign/precache-manifest.b1ff8c2404e43c481997c4a78e745fe4.js"
 );
 
 workbox.clientsClaim();
