@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/akndesign-redesign/static/css/main.d98e51c5.css",
-    "main.js": "/akndesign-redesign/static/js/main.0452ed12.js",
+    "main.js": "/akndesign-redesign/static/js/main.5b4005a8.js",
     "static/js/787.e9050a8c.chunk.js": "/akndesign-redesign/static/js/787.e9050a8c.chunk.js",
     "static/media/c_Misfits_30082019_Shot_10_802.jpg": "/akndesign-redesign/static/media/c_Misfits_30082019_Shot_10_802.99457a6ea0fe8954c493.jpg",
     "static/media/luke.gif": "/akndesign-redesign/static/media/luke.fc8721498454afcd3464.gif",
@@ -23,11 +23,11 @@
     "index.html": "/akndesign-redesign/index.html",
     "static/media/arrow-right.svg": "/akndesign-redesign/static/media/arrow-right.914c0d42b4cadc527298.svg",
     "main.d98e51c5.css.map": "/akndesign-redesign/static/css/main.d98e51c5.css.map",
-    "main.0452ed12.js.map": "/akndesign-redesign/static/js/main.0452ed12.js.map",
+    "main.5b4005a8.js.map": "/akndesign-redesign/static/js/main.5b4005a8.js.map",
     "787.e9050a8c.chunk.js.map": "/akndesign-redesign/static/js/787.e9050a8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d98e51c5.css",
-    "static/js/main.0452ed12.js"
+    "static/js/main.5b4005a8.js"
   ]
 }
